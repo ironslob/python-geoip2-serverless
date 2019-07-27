@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Geolite database
+GeoLite2-City.mmdb
+.direnv
+zappa_settings.json
+apigateway_resource_policy*.json
